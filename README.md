@@ -1,3 +1,7 @@
+# Objektově Orientovaný Návrh - amazing awesome cool repo for anyone to use
+
+![image](https://tenor.com/view/dark-souls-3-soul-of-cinder-sparkle-and-shine-aya-maruyama-bang-dream-gif-8446124686304861536)
+
 ### Setting up a project
 
 `dotnet new console -n [PROJECT_NAME] --use-program-main`
