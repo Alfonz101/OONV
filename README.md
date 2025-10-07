@@ -1,5 +1,5 @@
 # Objektově Orientovaný Návrh
-## The amazing awesome cool repo for anyone to use
+The amazing awesome cool repo for anyone to use
 
 ![cool gif](https://media1.tenor.com/m/dTappxfb3WAAAAAd/dark-souls-3-soul-of-cinder.gif)
 
