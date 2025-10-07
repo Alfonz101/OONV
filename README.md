@@ -1,7 +1,7 @@
 # Objektově Orientovaný Návrh
 ## The amazing awesome cool repo for anyone to use
 
-https://tenor.com/kd5vhHpid3Y.gif
+![cool gif](https://tenor.com/kd5vhHpid3Y.gif)
 
 ### Setting up a project
 
