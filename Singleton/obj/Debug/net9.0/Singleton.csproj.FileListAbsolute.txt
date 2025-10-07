@@ -1,0 +1,15 @@
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Singleton\bin\Debug\net9.0\Singleton.exe
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Singleton\bin\Debug\net9.0\Singleton.deps.json
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Singleton\bin\Debug\net9.0\Singleton.runtimeconfig.json
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Singleton\bin\Debug\net9.0\Singleton.dll
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Singleton\bin\Debug\net9.0\Singleton.pdb
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Singleton\obj\Debug\net9.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Singleton\obj\Debug\net9.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Singleton\obj\Debug\net9.0\Singleton.AssemblyInfo.cs
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Singleton\obj\Debug\net9.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Singleton\obj\Debug\net9.0\Singleton.sourcelink.json
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Singleton\obj\Debug\net9.0\Singleton.dll
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Singleton\obj\Debug\net9.0\refint\Singleton.dll
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Singleton\obj\Debug\net9.0\Singleton.pdb
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Singleton\obj\Debug\net9.0\Singleton.genruntimeconfig.cache
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Singleton\obj\Debug\net9.0\ref\Singleton.dll
