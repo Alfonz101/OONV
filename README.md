@@ -15,6 +15,7 @@ The super amazing awesome cool repo for anyone to use😎
 ## 🔎 Sources
 - [@pavelberanek91's Google Drive](https://drive.google.com/drive/folders/1NQClVCcfn_PbDOZ88xoOzBqGmtejn9zc)
 - [Refactoring Guru](https://refactoring.guru/)
+- [W3Schools C# Tutorial](https://www.w3schools.com/cs/index.php)
 
 ## 📘 Syllabus Overview
 
