@@ -1,7 +1,7 @@
 # Objektově Orientovaný Návrh
 ## The amazing awesome cool repo for anyone to use
 
-![cool gif](https://tenor.com/kd5vhHpid3Y.gif)
+![cool gif](https://media1.tenor.com/m/dTappxfb3WAAAAAd/dark-souls-3-soul-of-cinder.gif)
 
 ### Setting up a project
 
