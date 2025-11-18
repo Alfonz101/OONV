@@ -1,0 +1,15 @@
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Decorator\bin\Debug\net9.0\Decorator.exe
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Decorator\bin\Debug\net9.0\Decorator.deps.json
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Decorator\bin\Debug\net9.0\Decorator.runtimeconfig.json
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Decorator\bin\Debug\net9.0\Decorator.dll
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Decorator\bin\Debug\net9.0\Decorator.pdb
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Decorator\obj\Debug\net9.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Decorator\obj\Debug\net9.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Decorator\obj\Debug\net9.0\Decorator.AssemblyInfo.cs
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Decorator\obj\Debug\net9.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Decorator\obj\Debug\net9.0\Decorator.sourcelink.json
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Decorator\obj\Debug\net9.0\Decorator.dll
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Decorator\obj\Debug\net9.0\refint\Decorator.dll
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Decorator\obj\Debug\net9.0\Decorator.pdb
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Decorator\obj\Debug\net9.0\Decorator.genruntimeconfig.cache
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Decorator\obj\Debug\net9.0\ref\Decorator.dll
