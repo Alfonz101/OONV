@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyWeight", "FlyWeight\FlyWeight.csproj", "{CE7FA2E8-ED2A-406C-8F2E-5D089680A56B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{6829B6E3-8731-4FF0-AE28-CFAC78E55D58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,18 @@ Global
 		{CE7FA2E8-ED2A-406C-8F2E-5D089680A56B}.Release|x64.Build.0 = Release|Any CPU
 		{CE7FA2E8-ED2A-406C-8F2E-5D089680A56B}.Release|x86.ActiveCfg = Release|Any CPU
 		{CE7FA2E8-ED2A-406C-8F2E-5D089680A56B}.Release|x86.Build.0 = Release|Any CPU
+		{6829B6E3-8731-4FF0-AE28-CFAC78E55D58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6829B6E3-8731-4FF0-AE28-CFAC78E55D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6829B6E3-8731-4FF0-AE28-CFAC78E55D58}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6829B6E3-8731-4FF0-AE28-CFAC78E55D58}.Debug|x64.Build.0 = Debug|Any CPU
+		{6829B6E3-8731-4FF0-AE28-CFAC78E55D58}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6829B6E3-8731-4FF0-AE28-CFAC78E55D58}.Debug|x86.Build.0 = Debug|Any CPU
+		{6829B6E3-8731-4FF0-AE28-CFAC78E55D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6829B6E3-8731-4FF0-AE28-CFAC78E55D58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6829B6E3-8731-4FF0-AE28-CFAC78E55D58}.Release|x64.ActiveCfg = Release|Any CPU
+		{6829B6E3-8731-4FF0-AE28-CFAC78E55D58}.Release|x64.Build.0 = Release|Any CPU
+		{6829B6E3-8731-4FF0-AE28-CFAC78E55D58}.Release|x86.ActiveCfg = Release|Any CPU
+		{6829B6E3-8731-4FF0-AE28-CFAC78E55D58}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

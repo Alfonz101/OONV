@@ -1,0 +1,15 @@
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Strategy\obj\Debug\net9.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Strategy\obj\Debug\net9.0\Strategy.AssemblyInfoInputs.cache
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Strategy\obj\Debug\net9.0\Strategy.AssemblyInfo.cs
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Strategy\obj\Debug\net9.0\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Strategy\obj\Debug\net9.0\Strategy.sourcelink.json
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Strategy\bin\Debug\net9.0\Strategy.exe
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Strategy\bin\Debug\net9.0\Strategy.deps.json
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Strategy\bin\Debug\net9.0\Strategy.runtimeconfig.json
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Strategy\bin\Debug\net9.0\Strategy.dll
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Strategy\bin\Debug\net9.0\Strategy.pdb
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Strategy\obj\Debug\net9.0\Strategy.dll
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Strategy\obj\Debug\net9.0\refint\Strategy.dll
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Strategy\obj\Debug\net9.0\Strategy.pdb
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Strategy\obj\Debug\net9.0\Strategy.genruntimeconfig.cache
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Strategy\obj\Debug\net9.0\ref\Strategy.dll
