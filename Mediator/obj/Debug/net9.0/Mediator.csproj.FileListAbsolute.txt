@@ -1,0 +1,15 @@
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Mediator\bin\Debug\net9.0\Mediator.exe
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Mediator\bin\Debug\net9.0\Mediator.deps.json
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Mediator\bin\Debug\net9.0\Mediator.runtimeconfig.json
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Mediator\bin\Debug\net9.0\Mediator.dll
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Mediator\bin\Debug\net9.0\Mediator.pdb
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Mediator\obj\Debug\net9.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Mediator\obj\Debug\net9.0\Mediator.AssemblyInfoInputs.cache
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Mediator\obj\Debug\net9.0\Mediator.AssemblyInfo.cs
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Mediator\obj\Debug\net9.0\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Mediator\obj\Debug\net9.0\Mediator.sourcelink.json
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Mediator\obj\Debug\net9.0\Mediator.dll
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Mediator\obj\Debug\net9.0\refint\Mediator.dll
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Mediator\obj\Debug\net9.0\Mediator.pdb
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Mediator\obj\Debug\net9.0\Mediator.genruntimeconfig.cache
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Mediator\obj\Debug\net9.0\ref\Mediator.dll
