@@ -151,18 +151,22 @@ namespace Builder
         public static void Main()
         {
             Console.WriteLine("\nBuilding Characters using Builder (and director) Pattern:\n");
+            
             var director = new Director();
             var knightBuilder = new CreateKnight();
             director.Builder = knightBuilder;
             director.BuildKnight();
             Character knight = knightBuilder.GetCharacter();
             knight.ShowCharacter();
+
             Console.WriteLine("\n");
+
             var deprivedBuilder = new CreateDeprived();
             director.Builder = deprivedBuilder;
             director.BuildDeprived();
             Character deprived = deprivedBuilder.GetCharacter();
             deprived.ShowCharacter();
+
             Console.WriteLine("\n");
         }
     }

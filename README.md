@@ -1,4 +1,4 @@
-# Objektově Orientovaný Návrh
+# Object Oriented Design Patterns in C#
 The super amazing awesome cool repo for anyone to use😎
 
 ![cool gif](https://media1.tenor.com/m/dTappxfb3WAAAAAd/dark-souls-3-soul-of-cinder.gif)
@@ -21,18 +21,18 @@ The super amazing awesome cool repo for anyone to use😎
 
 | Lesson | Topics |
 |-------|------------------------------------------|
-| 1     | Úvod do C# a Tovární metoda (Factory method) |
-| 2     | Jedináček a Stavitel (Singleton and Builder) |
-| 3     | Prototyp a Abstraktní továrna |
-| 4     | Adaptér a Zástupce |
-| 5     | Most a Muší váha |
-| 6     | Dekorátor a Fasáda |
-| 7     | Kompozit |
-| 8     | Šablonová metoda a Strategie |
-| 9     | Zprostředkovatel a Pozorovatel |
-| 10    | Příkaz a Memento |
-| 11    | Řetěz odpovědnosti a Iterátor |
-| 12    | Stav a Návštěvník |
+| 1     | Intro to C# and Factory method |
+| 2     | Singleton and Builder |
+| 3     | Prototype and Abstract Factory |
+| 4     | Adapter and Proxy |
+| 5     | Bridge and Flyweight |
+| 6     | Decorator and Facade |
+| 7     | Composite |
+| 8     | Template method and Strategy |
+| 9     | Mediator and Observer |
+| 10    | Command and Memento |
+| 11    | Chain of command and Iterator |
+| 12    | State and Visitor |
 
 
 ## ❤️ Authors
