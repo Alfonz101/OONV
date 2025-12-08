@@ -1,43 +1,169 @@
-﻿namespace Builder;
+﻿using System;
+using System.Collections.Generic;
 
-// Very dumbed down clone of the Dark Souls character creator
-public interface ICharacterBuilder
+namespace Builder
 {
-    void SetName(string name);
-    void SetClass(ClassType classType);
-    void SetGift(GiftType gift);
-    void SetAppearance(BodyType bodyType, int height);
-    void SetStat(StatType stat, int value);
-    void SetEquipment(WeaponType weapon, ShieldType shield, ArmorSetType armor, SpellType? spell);
-    void Validate();
-    void Build();
-}
-
-public class SoulsCharacterBuilder : ICharacterBuilder
-{
-    private Product _product = new Product();
-
-    public ConcreteBuilder()
+    public interface IBuilder
     {
-        this.Reset();
+        void Reset();
+        void SetMaxHealth(int maxHealth);
+        void SetClassType(string classType);
+        void SetName(string name);
+        void SetOrigin(string origin);
+        void SetStartingGift(string gift);
+        Character GetCharacter();
     }
 
-    public void Reset()
+    public class CreateKnight : IBuilder
     {
-        this._product = new Product();
+        private Character _character = new Character();
+
+        public CreateKnight()
+        {
+            Reset();
+        }
+
+        public void Reset()
+        {
+            _character = new Character();
+        }
+
+        public void SetMaxHealth(int maxHealth)
+        {
+            _character.MaxHealth = maxHealth;
+        }
+
+        public void SetClassType(string classType)
+        {
+            _character.ClassType = classType;
+        }
+
+        public void SetName(string name)
+        {
+            _character.Name = name;
+        }
+
+        public void SetOrigin(string origin)
+        {
+            _character.Origin = origin;
+        }
+
+        public void SetStartingGift(string gift)
+        {
+            _character.StartingGift = gift;
+        }
+
+        public Character GetCharacter()
+        {
+            var result = _character;
+            Reset();
+            return result;
+        }
     }
 
-    public Product GetProduct()
-    {
-        Product result = this._product;
-        this.Reset();
-        return result;
+    public class CreateDeprived : IBuilder {
+        private Character _character = new Character();
+        public CreateDeprived() {
+            Reset();
+        }
+
+        public void Reset() {
+            _character = new Character();
+        }
+
+        public void SetMaxHealth(int maxHealth) {
+            _character.MaxHealth = maxHealth;
+        }
+
+        public void SetClassType(string classType) {
+            _character.ClassType = classType;
+        }
+
+        public void SetName(string name) {
+            _character.Name = name;
+        }
+
+        public void SetOrigin(string origin) {
+            _character.Origin = origin;
+        }
+
+        public void SetStartingGift(string gift) {
+            _character.StartingGift = gift;
+        }
+
+        public Character GetCharacter() {
+            var result = _character;
+            Reset();
+            return result;
+        }
     }
-}
-class Program
-{
-    static void Main(string[] args)
+
+    public class Character
     {
-        Console.WriteLine("Hello, World!");
+        public int MaxHealth { get; set; }
+        public string ClassType { get; set; } = string.Empty;
+        public string Name { get; set; } = string.Empty;
+        public string Origin { get; set; } = string.Empty;
+        public string StartingGift { get; set; } = string.Empty;
+
+        public void ShowCharacter()
+        {
+            Console.WriteLine($"Name: {Name}");
+            Console.WriteLine($"Class: {ClassType}");
+            Console.WriteLine($"MaxHealth: {MaxHealth}");
+            Console.WriteLine($"Origin: {Origin}");
+            Console.WriteLine($"Starting Gift: {StartingGift}");
+        }
+
+    }
+
+    public class Director
+    {
+        private IBuilder _builder = null!;
+        public IBuilder Builder
+        {
+            set { _builder = value; }
+        }
+
+        public void BuildKnight()
+        {
+            _builder.Reset();
+            _builder.SetMaxHealth(200);
+            _builder.SetClassType("Knight");
+            _builder.SetName("Knight Alfonz");
+            _builder.SetOrigin("Human");
+            _builder.SetStartingGift("Divine Blessing");
+        }
+
+        public void BuildDeprived()
+        {
+            _builder.Reset();
+            _builder.SetMaxHealth(100);
+            _builder.SetClassType("Deprived");
+            _builder.SetName("Ryan Renolds");
+            _builder.SetOrigin("Unknown");
+            _builder.SetStartingGift("Broken Straight Sword");
+        }
+    }
+
+    public class Program
+    {
+        public static void Main()
+        {
+            Console.WriteLine("\nBuilding Characters using Builder (and director) Pattern:\n");
+            var director = new Director();
+            var knightBuilder = new CreateKnight();
+            director.Builder = knightBuilder;
+            director.BuildKnight();
+            Character knight = knightBuilder.GetCharacter();
+            knight.ShowCharacter();
+            Console.WriteLine("\n");
+            var deprivedBuilder = new CreateDeprived();
+            director.Builder = deprivedBuilder;
+            director.BuildDeprived();
+            Character deprived = deprivedBuilder.GetCharacter();
+            deprived.ShowCharacter();
+            Console.WriteLine("\n");
+        }
     }
 }

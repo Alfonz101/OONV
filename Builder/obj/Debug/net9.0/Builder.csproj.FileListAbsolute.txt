@@ -3,3 +3,13 @@ C:\Users\Robert Seaborn\Documents\UJEP\OONV\Builder\obj\Debug\net9.0\Builder.Ass
 C:\Users\Robert Seaborn\Documents\UJEP\OONV\Builder\obj\Debug\net9.0\Builder.AssemblyInfo.cs
 C:\Users\Robert Seaborn\Documents\UJEP\OONV\Builder\obj\Debug\net9.0\Builder.csproj.CoreCompileInputs.cache
 C:\Users\Robert Seaborn\Documents\UJEP\OONV\Builder\obj\Debug\net9.0\Builder.sourcelink.json
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Builder\bin\Debug\net9.0\Builder.exe
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Builder\bin\Debug\net9.0\Builder.deps.json
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Builder\bin\Debug\net9.0\Builder.runtimeconfig.json
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Builder\bin\Debug\net9.0\Builder.dll
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Builder\bin\Debug\net9.0\Builder.pdb
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Builder\obj\Debug\net9.0\Builder.dll
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Builder\obj\Debug\net9.0\refint\Builder.dll
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Builder\obj\Debug\net9.0\Builder.pdb
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Builder\obj\Debug\net9.0\Builder.genruntimeconfig.cache
+C:\Users\Robert Seaborn\Documents\UJEP\OONV\Builder\obj\Debug\net9.0\ref\Builder.dll
