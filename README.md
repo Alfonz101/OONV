@@ -20,7 +20,7 @@ The super amazing awesome cool repo for anyone to use😎
 ## 📘 Syllabus Overview
 
 | Lesson | Topics | Completion |
-|-------|------------------------------------------|
+|-------|---------|--------------------------------|
 | 1     | Intro to C# and Factory method | ✅ |
 | 2     | Singleton and Builder | ✅ |
 | 3     | Prototype and Abstract Factory | ❌ |
