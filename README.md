@@ -19,20 +19,20 @@ The super amazing awesome cool repo for anyone to use😎
 
 ## 📘 Syllabus Overview
 
-| Lesson | Topics |
+| Lesson | Topics | Completion |
 |-------|------------------------------------------|
-| 1     | Intro to C# and Factory method |
-| 2     | Singleton and Builder |
-| 3     | Prototype and Abstract Factory |
-| 4     | Adapter and Proxy |
-| 5     | Bridge and Flyweight |
-| 6     | Decorator and Facade |
-| 7     | Composite |
-| 8     | Template method and Strategy |
-| 9     | Mediator and Observer |
-| 10    | Command and Memento |
-| 11    | Chain of command and Iterator |
-| 12    | State and Visitor |
+| 1     | Intro to C# and Factory method | ✅ |
+| 2     | Singleton and Builder | ✅ |
+| 3     | Prototype and Abstract Factory | ❌ |
+| 4     | Adapter and Proxy | ✅ | 
+| 5     | Bridge and Flyweight | ❌ (Bridge missing) |
+| 6     | Decorator and Facade | ✅ |
+| 7     | Composite | ❌ |
+| 8     | Template method and Strategy | ✅ |
+| 9     | Mediator and Observer | ✅ |
+| 10    | Command and Memento | ❌ |
+| 11    | Chain of command and Iterator | ❌ |
+| 12    | State and Visitor | ❌ |
 
 
 ## ❤️ Authors
