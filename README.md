@@ -23,7 +23,7 @@ The super amazing awesome cool repo for anyone to use😎
 |-------|---------|--------------------------------|
 | 1     | Intro to C# and Factory method | ✅ |
 | 2     | Singleton and Builder | ✅ |
-| 3     | Prototype and Abstract Factory | ❌ |
+| 3     | Prototype and Abstract Factory | ✅ |
 | 4     | Adapter and Proxy | ✅ | 
 | 5     | Bridge and Flyweight | ❌ (Bridge missing) |
 | 6     | Decorator and Facade | ✅ |
